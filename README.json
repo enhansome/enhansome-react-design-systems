@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T11:45:01Z",
+            "last_commit": "2026-08-15T07:12:46Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99087
+            "stars": 99090
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T17:19:27Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98777
+            "stars": 98807
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T19:52:41Z",
+            "last_commit": "2026-08-15T00:01:31Z",
             "owner": "palantir",
             "repo": "blueprint",
-            "stars": 21988
+            "stars": 21995
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T20:09:03Z",
+            "last_commit": "2026-08-15T14:10:05Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9355
+            "stars": 9358
           }
         },
         {
@@ -123,10 +123,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:04:08Z",
+            "last_commit": "2026-08-15T21:34:40Z",
             "owner": "zendeskgarden",
             "repo": "react-components",
-            "stars": 1110
+            "stars": 1111
           }
         },
         {
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:10:24.469Z",
+    "last_updated": "2026-08-15T22:08:00.316Z",
     "original_repository": "jbranchaud/awesome-react-design-systems",
     "original_repository_sha": "23041e1e5b697ead69dc4127509ea02fb5378e99",
     "enhanced_repository": "enhansome/enhansome-react-design-systems",
