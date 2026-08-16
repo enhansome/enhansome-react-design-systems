@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:12:46Z",
+            "last_commit": "2026-08-16T21:24:47Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99090
+            "stars": 99087
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T17:19:27Z",
+            "last_commit": "2026-08-16T00:35:56Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98807
+            "stars": 98832
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-15T00:01:31Z",
             "owner": "palantir",
             "repo": "blueprint",
-            "stars": 21995
+            "stars": 21999
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T14:10:05Z",
+            "last_commit": "2026-08-16T14:10:43Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9358
+            "stars": 9361
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-11T07:11:56Z",
             "owner": "Shopify",
             "repo": "polaris-react-archive",
-            "stars": 6176
+            "stars": 6175
           }
         },
         {
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:39:00Z",
+            "last_commit": "2026-08-16T08:02:50Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
             "stars": 3786
@@ -342,7 +342,7 @@
             "last_commit": "2026-01-31T17:46:33Z",
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20385
+            "stars": 20386
           }
         },
         {
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:08:00.316Z",
+    "last_updated": "2026-08-16T22:08:15.196Z",
     "original_repository": "jbranchaud/awesome-react-design-systems",
     "original_repository_sha": "23041e1e5b697ead69dc4127509ea02fb5378e99",
     "enhanced_repository": "enhansome/enhansome-react-design-systems",
