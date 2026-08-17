@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T21:24:47Z",
+            "last_commit": "2026-08-17T21:24:48Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99087
+            "stars": 99095
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T00:35:56Z",
+            "last_commit": "2026-08-17T15:14:34Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98832
+            "stars": 98847
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T00:01:31Z",
+            "last_commit": "2026-08-17T16:58:03Z",
             "owner": "palantir",
             "repo": "blueprint",
-            "stars": 21999
+            "stars": 22001
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T14:10:43Z",
+            "last_commit": "2026-08-17T21:40:58Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9361
+            "stars": 9364
           }
         },
         {
@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T20:03:34Z",
+            "last_commit": "2026-08-17T17:54:11Z",
             "owner": "grommet",
             "repo": "grommet",
             "stars": 8354
@@ -249,7 +249,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T08:36:33Z",
+            "last_commit": "2026-08-17T11:16:37Z",
             "owner": "SpareBank1",
             "repo": "designsystem",
             "stars": 115
@@ -342,7 +342,7 @@
             "last_commit": "2026-01-31T17:46:33Z",
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20386
+            "stars": 20387
           }
         },
         {
@@ -353,7 +353,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-06-19T07:17:46Z",
+            "last_commit": "2026-08-17T10:13:07Z",
             "owner": "shoutem",
             "repo": "ui",
             "stars": 4978
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:08:15.196Z",
+    "last_updated": "2026-08-17T22:11:40.841Z",
     "original_repository": "jbranchaud/awesome-react-design-systems",
     "original_repository_sha": "23041e1e5b697ead69dc4127509ea02fb5378e99",
     "enhanced_repository": "enhansome/enhansome-react-design-systems",
