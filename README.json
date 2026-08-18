@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T21:24:48Z",
+            "last_commit": "2026-08-18T21:27:56Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99095
+            "stars": 99116
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T15:14:34Z",
+            "last_commit": "2026-08-18T10:11:02Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98847
+            "stars": 98855
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T16:58:03Z",
+            "last_commit": "2026-08-18T20:46:44Z",
             "owner": "palantir",
             "repo": "blueprint",
             "stars": 22001
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T21:40:58Z",
+            "last_commit": "2026-08-18T20:05:46Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9364
+            "stars": 9368
           }
         },
         {
@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T17:54:11Z",
+            "last_commit": "2026-08-18T22:06:29Z",
             "owner": "grommet",
             "repo": "grommet",
             "stars": 8354
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-11T07:11:56Z",
             "owner": "Shopify",
             "repo": "polaris-react-archive",
-            "stars": 6175
+            "stars": 6174
           }
         },
         {
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T08:02:50Z",
+            "last_commit": "2026-08-18T17:21:44Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
             "stars": 3786
@@ -123,7 +123,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T21:34:40Z",
+            "last_commit": "2026-08-18T16:57:42Z",
             "owner": "zendeskgarden",
             "repo": "react-components",
             "stars": 1111
@@ -285,20 +285,6 @@
         },
         {
           "node_type": "item",
-          "title": "MongoDB Design",
-          "description": "[github] - MongoDB - Design for mission-critical applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T17:13:44Z",
-            "owner": "mongodb",
-            "repo": "design",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Canvas",
           "description": "[github] - Hubspot - HubSpot Canvas is the design system that we at HubSpot use to build our products.",
           "children": [],
@@ -324,6 +310,20 @@
             "repo": "swarm-design-system",
             "stars": 22
           }
+        },
+        {
+          "node_type": "item",
+          "title": "MongoDB Design",
+          "description": "[github] - MongoDB - Design for mission-critical applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T21:06:01Z",
+            "owner": "mongodb",
+            "repo": "design",
+            "stars": 5
+          }
         }
       ],
       "title": "React Design Systems"
@@ -342,7 +342,7 @@
             "last_commit": "2026-01-31T17:46:33Z",
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20387
+            "stars": 20386
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-17T10:13:07Z",
             "owner": "shoutem",
             "repo": "ui",
-            "stars": 4978
+            "stars": 4977
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2021-05-29T08:52:27Z",
             "owner": "rilyu",
             "repo": "teaset",
-            "stars": 2936
+            "stars": 2934
           }
         },
         {
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:11:40.841Z",
+    "last_updated": "2026-08-18T22:09:31.564Z",
     "original_repository": "jbranchaud/awesome-react-design-systems",
     "original_repository_sha": "23041e1e5b697ead69dc4127509ea02fb5378e99",
     "enhanced_repository": "enhansome/enhansome-react-design-systems",
