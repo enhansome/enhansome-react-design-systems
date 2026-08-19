@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T21:27:56Z",
+            "last_commit": "2026-08-19T10:53:43Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99116
+            "stars": 99117
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T10:11:02Z",
+            "last_commit": "2026-08-19T09:19:22Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98855
+            "stars": 98862
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71939872,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:46:44Z",
+            "last_commit": "2026-08-19T02:59:33Z",
             "owner": "palantir",
             "repo": "blueprint",
-            "stars": 22001
+            "stars": 22002
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84835535,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T20:05:46Z",
+            "last_commit": "2026-08-19T10:05:15Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9368
+            "stars": 9371
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32787174,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T22:06:29Z",
+            "last_commit": "2026-08-19T02:57:00Z",
             "owner": "grommet",
             "repo": "grommet",
-            "stars": 8354
+            "stars": 8353
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 88897663,
             "language": "TypeScript",
             "last_commit": "2026-08-11T07:11:56Z",
             "owner": "Shopify",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97698189,
             "language": "TypeScript",
             "last_commit": "2026-08-18T17:21:44Z",
             "owner": "JetBrains",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 60779483,
             "language": "JavaScript",
             "last_commit": "2019-04-14T22:52:40Z",
             "owner": "cloudflare",
@@ -122,8 +130,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132498655,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T16:57:42Z",
+            "last_commit": "2026-08-19T09:01:11Z",
             "owner": "zendeskgarden",
             "repo": "react-components",
             "stars": 1111
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40749402,
             "language": "JavaScript",
             "last_commit": "2026-06-02T18:02:03Z",
             "owner": "salesforce",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97530717,
             "language": "TypeScript",
             "last_commit": "2026-07-15T13:27:25Z",
             "owner": "priceline",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19867319,
             "language": "JavaScript",
             "last_commit": "2024-05-15T20:16:50Z",
             "owner": "pivotal-cf",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87827232,
             "language": "JavaScript",
             "last_commit": "2022-12-06T17:57:27Z",
             "owner": "mineral-ui",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 85820377,
             "language": "TypeScript",
             "last_commit": "2026-08-05T08:27:42Z",
             "owner": "Skyscanner",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 56475150,
             "language": "JavaScript",
             "last_commit": "2021-07-16T04:23:06Z",
             "owner": "seek-oss",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 90648288,
             "language": "TypeScript",
             "last_commit": "2024-06-03T14:21:25Z",
             "owner": "pluralsight",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 115207436,
             "language": "JavaScript",
             "last_commit": "2023-09-27T20:36:11Z",
             "owner": "hackclub",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122945940,
             "language": "TypeScript",
             "last_commit": "2026-08-17T11:16:37Z",
             "owner": "SpareBank1",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104943277,
             "language": "JavaScript",
             "last_commit": "2023-01-11T20:47:46Z",
             "owner": "sparkdesignsystem",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62077112,
             "language": "JavaScript",
             "last_commit": "2022-12-10T06:05:25Z",
             "owner": "wework",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 106751928,
             "language": "JavaScript",
             "last_commit": "2018-03-01T00:29:33Z",
             "owner": "HubSpot",
@@ -304,32 +325,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70196603,
             "language": "JavaScript",
             "last_commit": "2023-09-06T04:01:31Z",
             "owner": "meetuparchive",
             "repo": "swarm-design-system",
             "stars": 22
           }
-        },
-        {
-          "node_type": "item",
-          "title": "MongoDB Design",
-          "description": "[github] - MongoDB - Design for mission-critical applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T21:06:01Z",
-            "owner": "mongodb",
-            "repo": "design",
-            "stars": 5
-          }
         }
       ],
       "title": "React Design Systems"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -338,11 +346,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56315715,
             "language": "TypeScript",
             "last_commit": "2026-01-31T17:46:33Z",
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20386
+            "stars": 20387
           }
         },
         {
@@ -352,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65215684,
             "language": "JavaScript",
             "last_commit": "2026-08-17T10:13:07Z",
             "owner": "shoutem",
@@ -366,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75796965,
             "language": "JavaScript",
             "last_commit": "2021-05-29T08:52:27Z",
             "owner": "rilyu",
@@ -380,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 212833407,
             "language": "HTML",
             "last_commit": "2019-10-05T16:04:58Z",
             "owner": "react-native-training",
@@ -392,8 +404,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:09:31.564Z",
+    "last_updated": "2026-08-19T12:52:15.024Z",
     "original_repository": "jbranchaud/awesome-react-design-systems",
+    "original_repository_id": 132911101,
     "original_repository_sha": "23041e1e5b697ead69dc4127509ea02fb5378e99",
     "enhanced_repository": "enhansome/enhansome-react-design-systems",
     "enhanced_repository_description": null,
