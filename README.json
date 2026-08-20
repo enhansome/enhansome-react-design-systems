@@ -12,10 +12,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T21:22:18Z",
+            "last_commit": "2026-08-20T21:24:26Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99118
+            "stars": 99129
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T17:14:37Z",
+            "last_commit": "2026-08-20T13:46:18Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98865
+            "stars": 98877
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 71939872,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T21:24:37Z",
+            "last_commit": "2026-08-20T16:01:53Z",
             "owner": "palantir",
             "repo": "blueprint",
             "stars": 22002
@@ -56,8 +56,8 @@
           "repo_info": {
             "archived": false,
             "id": 84835535,
-            "language": "JavaScript",
-            "last_commit": "2026-08-19T17:34:52Z",
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T18:44:07Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
             "stars": 9373
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 32787174,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T21:17:33Z",
+            "last_commit": "2026-08-20T22:08:01Z",
             "owner": "grommet",
             "repo": "grommet",
             "stars": 8351
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 132498655,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T19:52:54Z",
+            "last_commit": "2026-08-20T22:08:04Z",
             "owner": "zendeskgarden",
             "repo": "react-components",
             "stars": 1111
@@ -150,7 +150,7 @@
             "last_commit": "2026-06-02T18:02:03Z",
             "owner": "salesforce",
             "repo": "design-system-react",
-            "stars": 982
+            "stars": 981
           }
         },
         {
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:12:12.968Z",
+    "last_updated": "2026-08-20T22:14:00.892Z",
     "original_repository": "jbranchaud/awesome-react-design-systems",
     "original_repository_id": 132911101,
     "original_repository_sha": "23041e1e5b697ead69dc4127509ea02fb5378e99",
