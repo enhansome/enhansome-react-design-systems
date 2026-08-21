@@ -12,10 +12,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T21:24:26Z",
+            "last_commit": "2026-08-21T08:46:00Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99129
+            "stars": 99138
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T13:46:18Z",
+            "last_commit": "2026-08-21T14:20:37Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98877
+            "stars": 98887
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 71939872,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T16:01:53Z",
+            "last_commit": "2026-08-21T18:36:01Z",
             "owner": "palantir",
             "repo": "blueprint",
             "stars": 22002
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T18:44:07Z",
+            "last_commit": "2026-08-21T21:45:25Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9373
+            "stars": 9375
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-20T22:08:01Z",
             "owner": "grommet",
             "repo": "grommet",
-            "stars": 8351
+            "stars": 8352
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 97698189,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:21:44Z",
+            "last_commit": "2026-08-21T17:17:26Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
-            "stars": 3786
+            "stars": 3785
           }
         },
         {
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 132498655,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T22:08:04Z",
+            "last_commit": "2026-08-21T20:47:11Z",
             "owner": "zendeskgarden",
             "repo": "react-components",
             "stars": 1111
@@ -351,7 +351,7 @@
             "last_commit": "2026-01-31T17:46:33Z",
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20387
+            "stars": 20386
           }
         },
         {
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 65215684,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T10:13:07Z",
+            "last_commit": "2026-08-21T09:18:52Z",
             "owner": "shoutem",
             "repo": "ui",
             "stars": 4977
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:14:00.892Z",
+    "last_updated": "2026-08-21T22:10:59.684Z",
     "original_repository": "jbranchaud/awesome-react-design-systems",
     "original_repository_id": 132911101,
     "original_repository_sha": "23041e1e5b697ead69dc4127509ea02fb5378e99",
