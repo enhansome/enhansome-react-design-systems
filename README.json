@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T08:46:00Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99138
+            "stars": 99147
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T14:20:37Z",
+            "last_commit": "2026-08-22T04:07:50Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98887
+            "stars": 98894
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 71939872,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T18:36:01Z",
+            "last_commit": "2026-08-21T22:27:47Z",
             "owner": "palantir",
             "repo": "blueprint",
-            "stars": 22002
+            "stars": 22003
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T21:45:25Z",
+            "last_commit": "2026-08-22T14:09:44Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9375
+            "stars": 9377
           }
         },
         {
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 132498655,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T20:47:11Z",
+            "last_commit": "2026-08-22T04:42:49Z",
             "owner": "zendeskgarden",
             "repo": "react-components",
             "stars": 1111
@@ -195,7 +195,7 @@
             "last_commit": "2022-12-06T17:57:27Z",
             "owner": "mineral-ui",
             "repo": "mineral-ui",
-            "stars": 556
+            "stars": 555
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2026-08-21T09:18:52Z",
             "owner": "shoutem",
             "repo": "ui",
-            "stars": 4977
+            "stars": 4978
           }
         },
         {
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:10:59.684Z",
+    "last_updated": "2026-08-22T22:08:45.598Z",
     "original_repository": "jbranchaud/awesome-react-design-systems",
     "original_repository_id": 132911101,
     "original_repository_sha": "23041e1e5b697ead69dc4127509ea02fb5378e99",
