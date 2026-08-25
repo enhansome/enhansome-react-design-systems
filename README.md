@@ -20,10 +20,10 @@ A curated list of design systems made up of reusable
 
 #### React Design Systems
 
-* [Ant Design](https://ant.design/) \[[github](https://github.com/ant-design/ant-design/) ⭐ 99,176 | 🐛 1,087 | 🌐 TypeScript | 📅 2026-08-24] - Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
-* [Material UI](https://www.material-ui.com/#/) \[[github](https://github.com/mui-org/material-ui) ⭐ 98,916 | 🐛 1,494 | 🌐 JavaScript | 📅 2026-08-24] - Google - React components that implement Google's Material Design.
-* [Blueprint](http://blueprintjs.com/) \[[github](https://github.com/palantir/blueprint) ⭐ 22,007 | 🐛 967 | 🌐 TypeScript | 📅 2026-08-24] - Palantir - A React-based UI toolkit for the web
-* [Carbon Design System](http://carbondesignsystem.com/) \[[github](https://github.com/carbon-design-system/carbon-components) ⭐ 9,385 | 🐛 1,038 | 🌐 TypeScript | 📅 2026-08-24] - IBM - The Carbon Design System is integrating the new IBM Design Ethos and Language.
+* [Ant Design](https://ant.design/) \[[github](https://github.com/ant-design/ant-design/) ⭐ 99,179 | 🐛 1,089 | 🌐 TypeScript | 📅 2026-08-25] - Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
+* [Material UI](https://www.material-ui.com/#/) \[[github](https://github.com/mui-org/material-ui) ⭐ 98,923 | 🐛 1,493 | 🌐 JavaScript | 📅 2026-08-25] - Google - React components that implement Google's Material Design.
+* [Blueprint](http://blueprintjs.com/) \[[github](https://github.com/palantir/blueprint) ⭐ 22,006 | 🐛 967 | 🌐 TypeScript | 📅 2026-08-24] - Palantir - A React-based UI toolkit for the web
+* [Carbon Design System](http://carbondesignsystem.com/) \[[github](https://github.com/carbon-design-system/carbon-components) ⭐ 9,386 | 🐛 1,041 | 🌐 TypeScript | 📅 2026-08-25] - IBM - The Carbon Design System is integrating the new IBM Design Ethos and Language.
 * [Grommet](http://grommet.io/) \[[github](https://github.com/grommet/grommet) ⭐ 8,352 | 🐛 458 | 🌐 JavaScript | 📅 2026-08-24] - Hewlett Packard - Grommet provides all the guidance, components, and design resources you need to take your ideas from concept to a real application.
 * [Polaris](https://polaris.shopify.com/) \[[github](https://github.com/Shopify/polaris) ⚠️ Archived] - Shopify - Our design system helps us work together to build a great experience for all of Shopify’s merchants.
 * [Ring UI](http://www.jetbrains.org/ring-ui/index.html) \[[github](https://github.com/JetBrains/ring-ui) ⭐ 3,784 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-24] - JetBrains - This collection of UI components aims to provide all of the necessary building
@@ -63,4 +63,4 @@ A curated list of design systems made up of reusable
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
