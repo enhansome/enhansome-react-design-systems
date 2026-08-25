@@ -12,10 +12,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:56:38Z",
+            "last_commit": "2026-08-25T21:26:51Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99179
+            "stars": 99185
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T05:46:41Z",
+            "last_commit": "2026-08-25T13:58:29Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98923
+            "stars": 98922
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 71939872,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T16:04:32Z",
+            "last_commit": "2026-08-25T20:17:57Z",
             "owner": "palantir",
             "repo": "blueprint",
-            "stars": 22006
+            "stars": 22008
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:40:12Z",
+            "last_commit": "2026-08-25T16:29:44Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9386
+            "stars": 9385
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-24T17:18:23Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
-            "stars": 3784
+            "stars": 3785
           }
         },
         {
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 132498655,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:51:33Z",
+            "last_commit": "2026-08-25T20:09:25Z",
             "owner": "zendeskgarden",
             "repo": "react-components",
             "stars": 1111
@@ -267,7 +267,7 @@
             "archived": false,
             "id": 122945940,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:29:46Z",
+            "last_commit": "2026-08-25T14:12:38Z",
             "owner": "SpareBank1",
             "repo": "designsystem",
             "stars": 115
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:47.220Z",
+    "last_updated": "2026-08-25T22:12:57.634Z",
     "original_repository": "jbranchaud/awesome-react-design-systems",
     "original_repository_id": 132911101,
     "original_repository_sha": "23041e1e5b697ead69dc4127509ea02fb5378e99",
