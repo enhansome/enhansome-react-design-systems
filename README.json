@@ -12,10 +12,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T02:18:42Z",
+            "last_commit": "2026-08-27T11:56:07Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99211
+            "stars": 99220
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T14:22:39Z",
+            "last_commit": "2026-08-27T11:35:12Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98942
+            "stars": 98946
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-26T12:58:45Z",
             "owner": "palantir",
             "repo": "blueprint",
-            "stars": 22012
+            "stars": 22014
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T00:33:51Z",
+            "last_commit": "2026-08-27T08:08:12Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9385
+            "stars": 9386
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2021-05-29T08:52:27Z",
             "owner": "rilyu",
             "repo": "teaset",
-            "stars": 2934
+            "stars": 2933
           }
         },
         {
@@ -404,9 +404,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T02:19:18.601Z",
-    "original_repository": "jbranchaud/awesome-react-design-systems",
-    "original_repository_id": 132911101,
+    "last_updated": "2026-08-27T12:00:39.436Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 132911101,
+      "language": null,
+      "last_commit": "2022-11-05T16:55:04Z",
+      "owner": "jbranchaud",
+      "repo": "awesome-react-design-systems",
+      "stars": 937
+    },
     "original_repository_sha": "23041e1e5b697ead69dc4127509ea02fb5378e99",
     "enhanced_repository": "enhansome/enhansome-react-design-systems",
     "enhanced_repository_description": null,
