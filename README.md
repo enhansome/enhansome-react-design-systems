@@ -20,16 +20,16 @@ A curated list of design systems made up of reusable
 
 #### React Design Systems
 
-* [Ant Design](https://ant.design/) \[[github](https://github.com/ant-design/ant-design/) ⭐ 99,470 | 🐛 1,088 | 🌐 TypeScript | 📅 2026-09-10] - Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
-* [Material UI](https://www.material-ui.com/#/) \[[github](https://github.com/mui-org/material-ui) ⭐ 99,029 | 🐛 1,462 | 🌐 JavaScript | 📅 2026-09-10] - Google - React components that implement Google's Material Design.
-* [Blueprint](http://blueprintjs.com/) \[[github](https://github.com/palantir/blueprint) ⭐ 22,044 | 🐛 946 | 🌐 TypeScript | 📅 2026-09-10] - Palantir - A React-based UI toolkit for the web
-* [Carbon Design System](http://carbondesignsystem.com/) \[[github](https://github.com/carbon-design-system/carbon-components) ⭐ 9,443 | 🐛 1,037 | 🌐 JavaScript | 📅 2026-09-10] - IBM - The Carbon Design System is integrating the new IBM Design Ethos and Language.
-* [Grommet](http://grommet.io/) \[[github](https://github.com/grommet/grommet) ⭐ 8,349 | 🐛 483 | 🌐 JavaScript | 📅 2026-09-10] - Hewlett Packard - Grommet provides all the guidance, components, and design resources you need to take your ideas from concept to a real application.
+* [Ant Design](https://ant.design/) \[[github](https://github.com/ant-design/ant-design/) ⭐ 99,481 | 🐛 1,075 | 🌐 TypeScript | 📅 2026-09-11] - Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
+* [Material UI](https://www.material-ui.com/#/) \[[github](https://github.com/mui-org/material-ui) ⭐ 99,026 | 🐛 1,463 | 🌐 JavaScript | 📅 2026-09-11] - Google - React components that implement Google's Material Design.
+* [Blueprint](http://blueprintjs.com/) \[[github](https://github.com/palantir/blueprint) ⭐ 22,047 | 🐛 946 | 🌐 TypeScript | 📅 2026-09-11] - Palantir - A React-based UI toolkit for the web
+* [Carbon Design System](http://carbondesignsystem.com/) \[[github](https://github.com/carbon-design-system/carbon-components) ⭐ 9,447 | 🐛 1,031 | 🌐 JavaScript | 📅 2026-09-11] - IBM - The Carbon Design System is integrating the new IBM Design Ethos and Language.
+* [Grommet](http://grommet.io/) \[[github](https://github.com/grommet/grommet) ⭐ 8,349 | 🐛 486 | 🌐 JavaScript | 📅 2026-09-11] - Hewlett Packard - Grommet provides all the guidance, components, and design resources you need to take your ideas from concept to a real application.
 * [Polaris](https://polaris.shopify.com/) \[[github](https://github.com/Shopify/polaris) ⚠️ Archived] - Shopify - Our design system helps us work together to build a great experience for all of Shopify’s merchants.
-* [Ring UI](http://www.jetbrains.org/ring-ui/index.html) \[[github](https://github.com/JetBrains/ring-ui) ⭐ 3,788 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-06] - JetBrains - This collection of UI components aims to provide all of the necessary building
+* [Ring UI](http://www.jetbrains.org/ring-ui/index.html) \[[github](https://github.com/JetBrains/ring-ui) ⭐ 3,789 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-11] - JetBrains - This collection of UI components aims to provide all of the necessary building
   blocks for web-based products built inside JetBrains.
 * [cf-ui](https://cloudflare.github.io/cf-ui/) \[[github](https://github.com/cloudflare/cf-ui) ⚠️ Archived] - Cloudflare - A set of packages used to build UIs at Cloudflare using projects such as React.
-* [Garden](https://garden.zendesk.com/react-components/) \[[github](https://github.com/zendeskgarden/react-components) ⭐ 1,110 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-10] - Zendesk Garden - our curated collection of UI goodness.
+* [Garden](https://garden.zendesk.com/react-components/) \[[github](https://github.com/zendeskgarden/react-components) ⭐ 1,110 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-11] - Zendesk Garden - our curated collection of UI goodness.
 * [Lightning Design System](https://react.lightningdesignsystem.com/) \[[github](https://github.com/salesforce/design-system-react) ⭐ 981 | 🐛 161 | 🌐 JavaScript | 📅 2026-09-10] - Salesforce - A React implementation of the Lightning Design System.
 * [Priceline One](https://pricelinelabs.github.io/design-system/) \[[github](https://github.com/pricelinelabs/design-system) ⭐ 728 | 🐛 42 | 🌐 TypeScript | 📅 2026-07-15] - Priceline - A design system focused on speed, consistency, and best practices.
 * [Pivotal UI](https://styleguide.pivotal.io/) \[[github](https://github.com/pivotal-cf/pivotal-ui) ⭐ 639 | 🐛 61 | 🌐 JavaScript | 📅 2024-05-15] - Pivotal - A collection of React components that are styled for the Pivotal brand.
@@ -39,7 +39,7 @@ A curated list of design systems made up of reusable
 * [Pluralsight Design System](https://design-system.pluralsight.com/) \[[github](https://github.com/pluralsight/design-system) ⚠️ Archived] - Pluralsight - The UI building blocks for creating a cohesive design across Pluralsight products.
 * [Hack Club Design System](https://design.hackclub.com) \[[github](https://github.com/hackclub/design-system) ⚠️ Archived] - Hack Club - A collection of React components designed for speed, consistency, and best practices.
 * [SpareBank 1's Design System](https://design.sparebank1.no/) \[[github](https://github.com/SpareBank1/designsystem) ⭐ 115 | 🐛 117 | 🌐 TypeScript | 📅 2026-09-10] - SpareBank - A common language across disciplines, to ensure consistent design in our solutions.
-* [Spark Design System](https://sparkdesignsystem.com/) \[[github](https://github.com/sparkdesignsystem/spark-design-system) ⭐ 115 | 🐛 30 | 🌐 JavaScript | 📅 2023-01-11] - Quicken Loans - A system of patterns and components used to create the user interface for the Quicken Loans family of Fintech products.
+* [Spark Design System](https://sparkdesignsystem.com/) \[[github](https://github.com/sparkdesignsystem/spark-design-system) ⭐ 114 | 🐛 30 | 🌐 JavaScript | 📅 2023-01-11] - Quicken Loans - A system of patterns and components used to create the user interface for the Quicken Loans family of Fintech products.
 * [Plasma](http://plasma.guide/) \[[github](https://github.com/wework/plasma) ⭐ 48 | 🐛 75 | 🌐 JavaScript | 📅 2022-12-10] - WeWork - A design system for building internal business tools at WeWork.
 * [Canvas](https://canvas.hubspot.com/) \[[github](https://github.com/HubSpot/canvas) ⚠️ Archived] - Hubspot - HubSpot Canvas is the design system that we at HubSpot use to build our products.
 * [Swarm Design System](https://meetup.github.io/swarm-design-system/) \[[github](https://github.com/meetup/swarm-design-system) ⭐ 22 | 🐛 38 | 🌐 JavaScript | 📅 2023-09-06] - Meetup - A set of UI components ready for use by designers and engineers to quickly ship new products and features.
@@ -51,7 +51,7 @@ A curated list of design systems made up of reusable
 
 #### React Native Design Systems
 
-* [NativeBase](https://nativebase.io/) \[[github](https://github.com/GeekyAnts/NativeBase) ⭐ 20,376 | 🐛 376 | 🌐 TypeScript | 📅 2026-01-31] - GeekyAnts - Essential cross-platform UI components for React Native & Vue Native.
+* [NativeBase](https://nativebase.io/) \[[github](https://github.com/GeekyAnts/NativeBase) ⭐ 20,375 | 🐛 376 | 🌐 TypeScript | 📅 2026-01-31] - GeekyAnts - Essential cross-platform UI components for React Native & Vue Native.
 * [Shoutem UI](https://shoutem.github.io/docs/ui-toolkit/introduction) \[[github](https://github.com/shoutem/ui) ⭐ 4,979 | 🐛 103 | 🌐 JavaScript | 📅 2026-08-21] - Shoutem - Shoutem UI toolkit enables you to build professionally looking React Native apps with ease.
 * Teaset \[[github](https://github.com/rilyu/teaset) ⭐ 2,933 | 🐛 193 | 🌐 JavaScript | 📅 2021-05-29] - rilyu - A UI library
   for react native.
@@ -63,4 +63,4 @@ A curated list of design systems made up of reusable
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
