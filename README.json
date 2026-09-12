@@ -15,11 +15,11 @@
             "id": 34526884,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T10:16:07Z",
-            "open_issues": 1075,
+            "last_commit": "2026-09-12T22:27:59Z",
+            "open_issues": 1073,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99481,
+            "stars": 99490,
             "topics": [
               "ant-design",
               "antd",
@@ -48,7 +48,7 @@
             "open_issues": 1463,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99026,
+            "stars": 99035,
             "topics": [
               "design-system",
               "material-design",
@@ -75,7 +75,7 @@
             "open_issues": 946,
             "owner": "palantir",
             "repo": "blueprint",
-            "stars": 22047,
+            "stars": 22051,
             "topics": [
               "blueprint",
               "components",
@@ -105,11 +105,11 @@
             "id": 84835535,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T16:00:42Z",
-            "open_issues": 1031,
+            "last_commit": "2026-09-12T14:16:41Z",
+            "open_issues": 1033,
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9447,
+            "stars": 9456,
             "topics": [
               "design-system",
               "hacktoberfest",
@@ -133,7 +133,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T21:34:25Z",
-            "open_issues": 486,
+            "open_issues": 487,
             "owner": "grommet",
             "repo": "grommet",
             "stars": 8349,
@@ -297,7 +297,7 @@
             "open_issues": 42,
             "owner": "priceline",
             "repo": "design-system",
-            "stars": 728,
+            "stars": 727,
             "topics": [
               "components",
               "css",
@@ -603,7 +603,7 @@
             "open_issues": 376,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20375,
+            "stars": 20374,
             "topics": [
               "android",
               "hacktoberfest",
@@ -662,7 +662,7 @@
             "open_issues": 193,
             "owner": "rilyu",
             "repo": "teaset",
-            "stars": 2933,
+            "stars": 2932,
             "topics": [
               "badge",
               "carousel",
@@ -712,7 +712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:36:41.691Z",
+    "last_updated": "2026-09-12T23:29:16.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome React-based design systems",
