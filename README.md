@@ -20,16 +20,16 @@ A curated list of design systems made up of reusable
 
 #### React Design Systems
 
-* [Ant Design](https://ant.design/) \[[github](https://github.com/ant-design/ant-design/) ⭐ 99,542 | 🐛 1,066 | 🌐 TypeScript | 📅 2026-09-18] - Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
-* [Material UI](https://www.material-ui.com/#/) \[[github](https://github.com/mui-org/material-ui) ⭐ 99,061 | 🐛 1,465 | 🌐 JavaScript | 📅 2026-09-18] - Google - React components that implement Google's Material Design.
-* [Blueprint](http://blueprintjs.com/) \[[github](https://github.com/palantir/blueprint) ⭐ 22,073 | 🐛 952 | 🌐 TypeScript | 📅 2026-09-18] - Palantir - A React-based UI toolkit for the web
-* [Carbon Design System](http://carbondesignsystem.com/) \[[github](https://github.com/carbon-design-system/carbon-components) ⭐ 9,464 | 🐛 1,033 | 🌐 JavaScript | 📅 2026-09-18] - IBM - The Carbon Design System is integrating the new IBM Design Ethos and Language.
+* [Ant Design](https://ant.design/) \[[github](https://github.com/ant-design/ant-design/) ⭐ 99,551 | 🐛 1,069 | 🌐 TypeScript | 📅 2026-09-19] - Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
+* [Material UI](https://www.material-ui.com/#/) \[[github](https://github.com/mui-org/material-ui) ⭐ 99,058 | 🐛 1,465 | 🌐 JavaScript | 📅 2026-09-18] - Google - React components that implement Google's Material Design.
+* [Blueprint](http://blueprintjs.com/) \[[github](https://github.com/palantir/blueprint) ⭐ 22,074 | 🐛 952 | 🌐 TypeScript | 📅 2026-09-18] - Palantir - A React-based UI toolkit for the web
+* [Carbon Design System](http://carbondesignsystem.com/) \[[github](https://github.com/carbon-design-system/carbon-components) ⭐ 9,465 | 🐛 1,036 | 🌐 JavaScript | 📅 2026-09-19] - IBM - The Carbon Design System is integrating the new IBM Design Ethos and Language.
 * [Grommet](http://grommet.io/) \[[github](https://github.com/grommet/grommet) ⭐ 8,346 | 🐛 488 | 🌐 JavaScript | 📅 2026-09-18] - Hewlett Packard - Grommet provides all the guidance, components, and design resources you need to take your ideas from concept to a real application.
 * [Polaris](https://polaris.shopify.com/) \[[github](https://github.com/Shopify/polaris) ⚠️ Archived] - Shopify - Our design system helps us work together to build a great experience for all of Shopify’s merchants.
 * [Ring UI](http://www.jetbrains.org/ring-ui/index.html) \[[github](https://github.com/JetBrains/ring-ui) ⭐ 3,790 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-14] - JetBrains - This collection of UI components aims to provide all of the necessary building
   blocks for web-based products built inside JetBrains.
 * [cf-ui](https://cloudflare.github.io/cf-ui/) \[[github](https://github.com/cloudflare/cf-ui) ⚠️ Archived] - Cloudflare - A set of packages used to build UIs at Cloudflare using projects such as React.
-* [Garden](https://garden.zendesk.com/react-components/) \[[github](https://github.com/zendeskgarden/react-components) ⭐ 1,110 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-18] - Zendesk Garden - our curated collection of UI goodness.
+* [Garden](https://garden.zendesk.com/react-components/) \[[github](https://github.com/zendeskgarden/react-components) ⭐ 1,110 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-19] - Zendesk Garden - our curated collection of UI goodness.
 * [Lightning Design System](https://react.lightningdesignsystem.com/) \[[github](https://github.com/salesforce/design-system-react) ⭐ 982 | 🐛 161 | 🌐 JavaScript | 📅 2026-09-18] - Salesforce - A React implementation of the Lightning Design System.
 * [Priceline One](https://pricelinelabs.github.io/design-system/) \[[github](https://github.com/pricelinelabs/design-system) ⭐ 727 | 🐛 42 | 🌐 TypeScript | 📅 2026-07-15] - Priceline - A design system focused on speed, consistency, and best practices.
 * [Pivotal UI](https://styleguide.pivotal.io/) \[[github](https://github.com/pivotal-cf/pivotal-ui) ⭐ 639 | 🐛 61 | 🌐 JavaScript | 📅 2024-05-15] - Pivotal - A collection of React components that are styled for the Pivotal brand.
@@ -63,4 +63,4 @@ A curated list of design systems made up of reusable
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
