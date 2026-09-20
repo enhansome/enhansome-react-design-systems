@@ -20,13 +20,13 @@ A curated list of design systems made up of reusable
 
 #### React Design Systems
 
-* [Ant Design](https://ant.design/) \[[github](https://github.com/ant-design/ant-design/) ⭐ 99,551 | 🐛 1,069 | 🌐 TypeScript | 📅 2026-09-19] - Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
-* [Material UI](https://www.material-ui.com/#/) \[[github](https://github.com/mui-org/material-ui) ⭐ 99,058 | 🐛 1,465 | 🌐 JavaScript | 📅 2026-09-18] - Google - React components that implement Google's Material Design.
-* [Blueprint](http://blueprintjs.com/) \[[github](https://github.com/palantir/blueprint) ⭐ 22,074 | 🐛 952 | 🌐 TypeScript | 📅 2026-09-18] - Palantir - A React-based UI toolkit for the web
-* [Carbon Design System](http://carbondesignsystem.com/) \[[github](https://github.com/carbon-design-system/carbon-components) ⭐ 9,465 | 🐛 1,036 | 🌐 JavaScript | 📅 2026-09-19] - IBM - The Carbon Design System is integrating the new IBM Design Ethos and Language.
-* [Grommet](http://grommet.io/) \[[github](https://github.com/grommet/grommet) ⭐ 8,346 | 🐛 488 | 🌐 JavaScript | 📅 2026-09-18] - Hewlett Packard - Grommet provides all the guidance, components, and design resources you need to take your ideas from concept to a real application.
+* [Ant Design](https://ant.design/) \[[github](https://github.com/ant-design/ant-design/) ⭐ 99,564 | 🐛 1,073 | 🌐 TypeScript | 📅 2026-09-20] - Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
+* [Material UI](https://www.material-ui.com/#/) \[[github](https://github.com/mui-org/material-ui) ⭐ 99,066 | 🐛 1,475 | 🌐 JavaScript | 📅 2026-09-20] - Google - React components that implement Google's Material Design.
+* [Blueprint](http://blueprintjs.com/) \[[github](https://github.com/palantir/blueprint) ⭐ 22,075 | 🐛 952 | 🌐 TypeScript | 📅 2026-09-18] - Palantir - A React-based UI toolkit for the web
+* [Carbon Design System](http://carbondesignsystem.com/) \[[github](https://github.com/carbon-design-system/carbon-components) ⭐ 9,471 | 🐛 1,038 | 🌐 JavaScript | 📅 2026-09-20] - IBM - The Carbon Design System is integrating the new IBM Design Ethos and Language.
+* [Grommet](http://grommet.io/) \[[github](https://github.com/grommet/grommet) ⭐ 8,347 | 🐛 488 | 🌐 JavaScript | 📅 2026-09-18] - Hewlett Packard - Grommet provides all the guidance, components, and design resources you need to take your ideas from concept to a real application.
 * [Polaris](https://polaris.shopify.com/) \[[github](https://github.com/Shopify/polaris) ⚠️ Archived] - Shopify - Our design system helps us work together to build a great experience for all of Shopify’s merchants.
-* [Ring UI](http://www.jetbrains.org/ring-ui/index.html) \[[github](https://github.com/JetBrains/ring-ui) ⭐ 3,790 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-14] - JetBrains - This collection of UI components aims to provide all of the necessary building
+* [Ring UI](http://www.jetbrains.org/ring-ui/index.html) \[[github](https://github.com/JetBrains/ring-ui) ⭐ 3,790 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-20] - JetBrains - This collection of UI components aims to provide all of the necessary building
   blocks for web-based products built inside JetBrains.
 * [cf-ui](https://cloudflare.github.io/cf-ui/) \[[github](https://github.com/cloudflare/cf-ui) ⚠️ Archived] - Cloudflare - A set of packages used to build UIs at Cloudflare using projects such as React.
 * [Garden](https://garden.zendesk.com/react-components/) \[[github](https://github.com/zendeskgarden/react-components) ⭐ 1,110 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-19] - Zendesk Garden - our curated collection of UI goodness.
@@ -51,7 +51,7 @@ A curated list of design systems made up of reusable
 
 #### React Native Design Systems
 
-* [NativeBase](https://nativebase.io/) \[[github](https://github.com/GeekyAnts/NativeBase) ⭐ 20,374 | 🐛 377 | 🌐 TypeScript | 📅 2026-01-31] - GeekyAnts - Essential cross-platform UI components for React Native & Vue Native.
+* [NativeBase](https://nativebase.io/) \[[github](https://github.com/GeekyAnts/NativeBase) ⭐ 20,375 | 🐛 377 | 🌐 TypeScript | 📅 2026-01-31] - GeekyAnts - Essential cross-platform UI components for React Native & Vue Native.
 * [Shoutem UI](https://shoutem.github.io/docs/ui-toolkit/introduction) \[[github](https://github.com/shoutem/ui) ⭐ 4,980 | 🐛 104 | 🌐 JavaScript | 📅 2026-09-15] - Shoutem - Shoutem UI toolkit enables you to build professionally looking React Native apps with ease.
 * Teaset \[[github](https://github.com/rilyu/teaset) ⭐ 2,931 | 🐛 193 | 🌐 JavaScript | 📅 2021-05-29] - rilyu - A UI library
   for react native.
@@ -63,4 +63,4 @@ A curated list of design systems made up of reusable
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

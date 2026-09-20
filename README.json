@@ -15,11 +15,11 @@
             "id": 34526884,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T10:11:18Z",
-            "open_issues": 1069,
+            "last_commit": "2026-09-20T21:26:31Z",
+            "open_issues": 1073,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99551,
+            "stars": 99564,
             "topics": [
               "ant-design",
               "antd",
@@ -44,11 +44,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T15:20:13Z",
-            "open_issues": 1465,
+            "last_commit": "2026-09-20T22:23:00Z",
+            "open_issues": 1475,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99058,
+            "stars": 99066,
             "topics": [
               "design-system",
               "material-design",
@@ -75,7 +75,7 @@
             "open_issues": 952,
             "owner": "palantir",
             "repo": "blueprint",
-            "stars": 22074,
+            "stars": 22075,
             "topics": [
               "blueprint",
               "components",
@@ -105,11 +105,11 @@
             "id": 84835535,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T14:17:46Z",
-            "open_issues": 1036,
+            "last_commit": "2026-09-20T14:17:02Z",
+            "open_issues": 1038,
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9465,
+            "stars": 9471,
             "topics": [
               "design-system",
               "hacktoberfest",
@@ -136,7 +136,7 @@
             "open_issues": 488,
             "owner": "grommet",
             "repo": "grommet",
-            "stars": 8346,
+            "stars": 8347,
             "topics": [
               "a11y",
               "babel",
@@ -166,7 +166,7 @@
             "open_issues": 46,
             "owner": "Shopify",
             "repo": "polaris-react-archive",
-            "stars": 6170,
+            "stars": 6171,
             "topics": [
               "component-library",
               "design-system",
@@ -194,7 +194,7 @@
             "id": 97698189,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T11:34:41Z",
+            "last_commit": "2026-09-20T00:10:39Z",
             "open_issues": 12,
             "owner": "JetBrains",
             "repo": "ring-ui",
@@ -603,7 +603,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20374,
+            "stars": 20375,
             "topics": [
               "android",
               "hacktoberfest",
@@ -712,7 +712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T23:42:26.331Z",
+    "last_updated": "2026-09-20T23:38:45.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome React-based design systems",
