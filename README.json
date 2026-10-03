@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T08:13:12Z",
-            "open_issues": 1096,
+            "open_issues": 1098,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99660,
+            "stars": 99662,
             "topics": [
               "ant-design",
               "antd",
@@ -44,8 +44,8 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T13:22:13Z",
-            "open_issues": 1472,
+            "last_commit": "2026-10-03T00:49:46Z",
+            "open_issues": 1473,
             "owner": "mui",
             "repo": "material-ui",
             "stars": 99124,
@@ -72,7 +72,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T19:52:13Z",
-            "open_issues": 954,
+            "open_issues": 953,
             "owner": "palantir",
             "repo": "blueprint",
             "stars": 22114,
@@ -243,7 +243,7 @@
             "open_issues": 21,
             "owner": "zendeskgarden",
             "repo": "react-components",
-            "stars": 1110,
+            "stars": 1111,
             "topics": []
           },
           "first_seen": "2026-08-28T05:51:13.102Z"
@@ -264,7 +264,7 @@
             "open_issues": 91,
             "owner": "salesforce",
             "repo": "design-system-react",
-            "stars": 983,
+            "stars": 982,
             "topics": [
               "design-systems",
               "frontend",
@@ -711,7 +711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:47:08.843Z",
+    "last_updated": "2026-10-03T05:05:25.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome React-based design systems",
