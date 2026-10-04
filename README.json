@@ -19,7 +19,7 @@
             "open_issues": 1098,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99662,
+            "stars": 99665,
             "topics": [
               "ant-design",
               "antd",
@@ -48,7 +48,7 @@
             "open_issues": 1473,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99124,
+            "stars": 99123,
             "topics": [
               "design-system",
               "material-design",
@@ -75,7 +75,7 @@
             "open_issues": 953,
             "owner": "palantir",
             "repo": "blueprint",
-            "stars": 22114,
+            "stars": 22121,
             "topics": [
               "blueprint",
               "components",
@@ -105,11 +105,11 @@
             "id": 84835535,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:49:00Z",
-            "open_issues": 1079,
+            "last_commit": "2026-10-03T15:03:39Z",
+            "open_issues": 1081,
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9513,
+            "stars": 9518,
             "topics": [
               "design-system",
               "hacktoberfest",
@@ -193,8 +193,8 @@
             "id": 97698189,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:15:34Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-04T00:06:02Z",
+            "open_issues": 8,
             "owner": "JetBrains",
             "repo": "ring-ui",
             "stars": 3791,
@@ -633,7 +633,7 @@
             "open_issues": 103,
             "owner": "shoutem",
             "repo": "ui",
-            "stars": 4983,
+            "stars": 4984,
             "topics": [
               "android",
               "ios",
@@ -711,7 +711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:05:25.269Z",
+    "last_updated": "2026-10-04T00:10:08.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome React-based design systems",
